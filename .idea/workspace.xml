@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="66afbdca-be84-410b-97d6-01f3ad903576" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="84664448-21d6-4c0a-aa4b-fd71eb0cf478" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/samouczekProgramisty/testyZadania/Basket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/samouczekProgramisty/testyZadania/Basket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samouczekProgramisty.iml" beforeDir="false" afterPath="$PROJECT_DIR$/samouczekProgramisty.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testyZadania/Basket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testyZadania/Basket.java" afterDir="false" />
+>>>>>>> a6e379146ffb434f45bae1ff1c884670da447485
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,7 +25,108 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+=======
+    <leaf>
+      <file leaf-file-name="Basket.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testyZadania/Basket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="446">
+              <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Metody.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/zadania/Metody.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#633#634#0" expanded="true" />
+                <element signature="e#661#662#0" expanded="true" />
+                <element signature="e#743#744#0" expanded="true" />
+                <element signature="e#769#770#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Human.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/zadania/Human.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+              <folding>
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#550#551#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tablice_wypelnij.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/zadania/Tablice_wypelnij.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InfoOStringu.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/zadania/InfoOStringu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#89#90#0" expanded="true" />
+                <element signature="e#107#108#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/zadania/MyNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#92#93#0" expanded="true" />
+                <element signature="e#128#129#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tablice.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/zadania/Tablice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="76" column="52" lean-forward="true" selection-start-line="76" selection-start-column="52" selection-end-line="76" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> a6e379146ffb434f45bae1ff1c884670da447485
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,33 +141,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Metody.java" />
-        <option value="$PROJECT_DIR$/src/Obiekty.java" />
-        <option value="$PROJECT_DIR$/src/obiektyCwiczenie/pakiet1/pakiet2/Rys.java" />
-        <option value="$PROJECT_DIR$/src/obiektyCwiczenie/pakiet1/Rys.java" />
-        <option value="$PROJECT_DIR$/src/obiektyCwiczenie/pakiet2/Pies.java" />
-        <option value="$PROJECT_DIR$/src/PierwszyProgram.java" />
-        <option value="$PROJECT_DIR$/src/Tablica.java" />
-        <option value="$PROJECT_DIR$/src/Tablice.java" />
-        <option value="$PROJECT_DIR$/src/TypyProsteObliczanieTemp.java" />
-        <option value="$PROJECT_DIR$/src/Interface.java" />
-        <option value="$PROJECT_DIR$/src/Interface2.java" />
-        <option value="$PROJECT_DIR$/src/Dziedziczenie/Fish.java" />
-        <option value="$PROJECT_DIR$/src/Dziedziczenie/Animal.java" />
-        <option value="$PROJECT_DIR$/src/Dziedziczenie/Humal.java" />
-        <option value="$PROJECT_DIR$/src/Dziedziczenie/Goldfish.java" />
-        <option value="$PROJECT_DIR$/src/Dziedziczenie/Mammal.java" />
-        <option value="$PROJECT_DIR$/src/Wyjatki.java" />
-        <option value="$PROJECT_DIR$/src/WyjatkiZadanie.java" />
-        <option value="$PROJECT_DIR$/src/WyjatkiZadanie2.java" />
-        <option value="$PROJECT_DIR$/src/ZadanieWyjatki3.java" />
-        <option value="$PROJECT_DIR$/src/OutOfMemory.java" />
-        <option value="$PROJECT_DIR$/src/KonwersjaIRzutowanie.java" />
-        <option value="$PROJECT_DIR$/src/HashCode.java" />
-        <option value="$PROJECT_DIR$/src/Enumy.java" />
-        <option value="$PROJECT_DIR$/src/enumZadanie/Human.java" />
-        <option value="$PROJECT_DIR$/src/enumZadanie/Computation.java" />
         <option value="$PROJECT_DIR$/src/testyZadania/Basket.java" />
+        <option value="$PROJECT_DIR$/src/zadania/Metody.java" />
+        <option value="$PROJECT_DIR$/src/zadania/Obiekty.java" />
+        <option value="$PROJECT_DIR$/src/zadania/obiekty/Human.java" />
+        <option value="$PROJECT_DIR$/src/zadania/obiekty/MyNumber.java" />
+        <option value="$PROJECT_DIR$/src/zadania/obiekty/Tablice.java" />
+        <option value="$PROJECT_DIR$/src/zadania/Tablice.java" />
+        <option value="$PROJECT_DIR$/src/zadania/Tablice_wypelnij.java" />
+        <option value="$PROJECT_DIR$/src/zadania/InfoOStringu.java" />
       </list>
     </option>
   </component>
@@ -68,10 +163,13 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="632" />
-    <option name="y" value="5" />
-    <option name="width" value="1043" />
-    <option name="height" value="1076" />
+    <option name="x" value="204" />
+    <option name="y" value="-1041" />
+    <option name="width" value="1327" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -80,7 +178,10 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+<<<<<<< HEAD
       <pane id="AndroidView" />
+=======
+>>>>>>> a6e379146ffb434f45bae1ff1c884670da447485
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -94,13 +195,35 @@
               <item name="samouczekProgramisty" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
+            <path>
+              <item name="samouczekProgramisty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="samouczekProgramisty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="testyZadania" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="samouczekProgramisty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="samouczekProgramisty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zadania" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> a6e379146ffb434f45bae1ff1c884670da447485
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="AndroidView" />
+>>>>>>> a6e379146ffb434f45bae1ff1c884670da447485
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -118,29 +241,36 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Obiekty">
     <configuration name="Basket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="testyZadania.Basket" />
+=======
+  <component name="RunManager" selected="Application.InfoOStringu">
+    <configuration name="Human" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania.Human" />
+>>>>>>> a6e379146ffb434f45bae1ff1c884670da447485
       <module name="samouczekProgramisty" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testyZadania.*" />
+          <option name="PATTERN" value="zadania.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Computation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumZadanie.Computation" />
+    <configuration name="InfoOStringu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania.InfoOStringu" />
       <module name="samouczekProgramisty" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enumZadanie.*" />
+          <option name="PATTERN" value="zadania.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Enumy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Enumy" />
       <module name="samouczekProgramisty" />
@@ -148,11 +278,26 @@
     </configuration>
     <configuration name="Human" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="enumZadanie.Human" />
+=======
+    <configuration name="Tablice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania.Tablice" />
       <module name="samouczekProgramisty" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enumZadanie.*" />
+          <option name="PATTERN" value="zadania.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Tablice_wypelnij" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania.Tablice_wypelnij" />
+>>>>>>> a6e379146ffb434f45bae1ff1c884670da447485
+      <module name="samouczekProgramisty" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadania.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,6 +309,29 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="MetodyTest.czyPierwiastek" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="samouczekProgramisty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadania.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="zadania" />
+      <option name="MAIN_CLASS_NAME" value="zadania.MetodyTest" />
+      <option name="METHOD_NAME" value="czyPierwiastek" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -204,6 +372,7 @@
       <listeners />
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Application.Enumy" />
       <item itemvalue="Application.Human" />
       <item itemvalue="Application.Computation" />
@@ -217,6 +386,21 @@
         <item itemvalue="Application.Computation" />
         <item itemvalue="Application.Human" />
         <item itemvalue="Application.Enumy" />
+=======
+      <item itemvalue="JUnit.MetodyTest.czyPierwiastek" />
+      <item itemvalue="Application.Human" />
+      <item itemvalue="Application.Tablice" />
+      <item itemvalue="Application.Tablice_wypelnij" />
+      <item itemvalue="Application.InfoOStringu" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InfoOStringu" />
+        <item itemvalue="Application.Tablice_wypelnij" />
+        <item itemvalue="Application.Tablice" />
+        <item itemvalue="Application.Human" />
+        <item itemvalue="JUnit.MetodyTest.czyPierwiastek" />
+>>>>>>> a6e379146ffb434f45bae1ff1c884670da447485
       </list>
     </recent_temporary>
   </component>
@@ -225,19 +409,57 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="66afbdca-be84-410b-97d6-01f3ad903576" name="Default" comment="" />
-      <created>1536219758849</created>
+      <changelist id="84664448-21d6-4c0a-aa4b-fd71eb0cf478" name="Default" comment="" />
+      <created>1536577490169</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1536219758849</updated>
       <workItem from="1536219765837" duration="16768000" />
       <workItem from="1536301910018" duration="16169000" />
       <workItem from="1536560635099" duration="5872000" />
       <workItem from="1536647624175" duration="113000" />
+=======
+      <updated>1536577490169</updated>
+      <workItem from="1536577495200" duration="16070000" />
+>>>>>>> a6e379146ffb434f45bae1ff1c884670da447485
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="MetodyTest_czyJestPodzielnaPrzez3i5 - 2018.09.10 at 14h 04m 46s.xml">
+      <configuration name="MetodyTest.czyJestPodzielnaPrzez3i5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MetodyTest_czyJestPodzielnaPrzez3i5 - 2018.09.10 at 14h 07m 26s.xml">
+      <configuration name="MetodyTest.czyJestPodzielnaPrzez3i5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MetodyTest_czyJestPodzielnaPrzez3i5 - 2018.09.10 at 14h 07m 36s.xml">
+      <configuration name="MetodyTest.czyJestPodzielnaPrzez3i5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MetodyTest_czyJestParzysta - 2018.09.10 at 14h 07m 42s.xml">
+      <configuration name="MetodyTest.czyJestParzysta" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MetodyTest_czyJestParzysta - 2018.09.10 at 14h 08m 01s.xml">
+      <configuration name="MetodyTest.czyJestParzysta" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MetodyTest_czyJestPodzielnaPrzez3i5 - 2018.09.10 at 14h 08m 51s.xml">
+      <configuration name="MetodyTest.czyJestPodzielnaPrzez3i5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MetodyTest_czyPodniesionaDoPotegi - 2018.09.10 at 14h 15m 05s.xml">
+      <configuration name="MetodyTest.czyPodniesionaDoPotegi" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MetodyTest_czyPodniesionaDoPotegi - 2018.09.10 at 14h 15m 22s.xml">
+      <configuration name="MetodyTest.czyPodniesionaDoPotegi" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MetodyTest_czyPierwiastek - 2018.09.10 at 15h 15m 58s.xml">
+      <configuration name="MetodyTest.czyPierwiastek" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MetodyTest_czyJestParzysta - 2018.09.10 at 18h 06m 19s.xml">
+      <configuration name="MetodyTest.czyJestParzysta" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="39008000" />
   </component>
   <component name="ToolWindowManager">
@@ -259,18 +481,42 @@
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17526777" />
       <window_info anchor="right" id="Database" order="3" />
+=======
+    <option name="totallyTimeSpent" value="16070000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="204" y="-1041" width="1327" height="1000" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3118644" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32768363" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24942791" />
+      <window_info anchor="right" id="Database" order="5" />
+>>>>>>> a6e379146ffb434f45bae1ff1c884670da447485
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.27338877" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42060086" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,8 +525,14 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/testyZadania/Basket.java">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
@@ -389,167 +641,109 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tablica.java">
+=======
+>>>>>>> a6e379146ffb434f45bae1ff1c884670da447485
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+        <state relative-caret-position="446">
+          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
           <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tablice.java">
+    <entry file="file://$PROJECT_DIR$/src/zadania/a.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="99" column="5" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TypyProsteObliczanieTemp.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/stream/ForEachOps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        <state relative-caret-position="173">
+          <caret line="172" column="57" lean-forward="true" selection-start-line="172" selection-start-column="57" selection-end-line="172" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Interface.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        <state relative-caret-position="-2266">
+          <caret line="104" column="25" lean-forward="true" selection-start-line="104" selection-start-column="25" selection-end-line="104" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Interface2.java">
+    <entry file="file://$PROJECT_DIR$/src/zadania/Obiekty.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dziedziczenie/Fish.java">
+    <entry file="file://$PROJECT_DIR$/src/zadania/Human.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="207">
+          <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+          <folding>
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dziedziczenie/Humal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dziedziczenie/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dziedziczenie/Goldfish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dziedziczenie/Mammal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Wyjatki.java">
+    <entry file="file://$PROJECT_DIR$/src/zadania/Tablice_wypelnij.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WyjatkiZadanie2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZadanieWyjatki3.java">
+    <entry file="file://$PROJECT_DIR$/src/zadania/Metody.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        <state relative-caret-position="207">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PorównanieTypowProstych.java" />
-    <entry file="file://$PROJECT_DIR$/src/OutOfMemory.java">
+    <entry file="file://$PROJECT_DIR$/src/zadania/MyNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <element signature="e#70#71#0" expanded="true" />
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/KonwersjaIRzutowanie.java">
+    <entry file="file://$PROJECT_DIR$/src/zadania/Tablice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="374">
+          <caret line="76" column="52" lean-forward="true" selection-start-line="76" selection-start-column="52" selection-end-line="76" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WyjatkiZadanie.java">
+    <entry file="file://$PROJECT_DIR$/src/zadania/InfoOStringu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HashCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Enumy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-46">
-          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/enumZadanie/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="552">
           <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
         </state>
@@ -573,6 +767,13 @@
           <folding>
             <element signature="e#373#374#0" expanded="true" />
             <element signature="e#437#438#0" expanded="true" />
+=======
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#107#108#0" expanded="true" />
+>>>>>>> a6e379146ffb434f45bae1ff1c884670da447485
           </folding>
         </state>
       </provider>
